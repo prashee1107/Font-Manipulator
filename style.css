@@ -1,0 +1,28 @@
+.heading{
+    font-size: 30px;
+    box-shadow: 8px 8px 8px  black;
+    width: 100%;
+    margin-top: 0px;
+    font-family: 'DM Serif Display', serif;
+}
+.note{
+    color: black;
+    font-size: 18px;
+    font-family: 'DM Serif Display', serif;
+}
+.footer{
+    width: 100%;
+    position: fixed;
+    background: grey;
+    color: white;
+    line-height: 3;
+    text-align: center;
+    bottom: 0;
+    font-family: 'Elsie Swash Caps', cursive;
+    font-size: 20px;
+}
+canvas{
+    border-radius: 20px;
+    border: 5px  solid white;
+   box-shadow:5px 5px 5px grey;
+   }
